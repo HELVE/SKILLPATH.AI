@@ -4,7 +4,7 @@
 
 <a name="intro"></a> 
 # SKILLPATH.AI - Custom-built Alexa Skills for Businesses and Creators
-Vacō is a project template framework created for the purpose of unifying project structure across various types of endeavours and streamline the flow of information and data making it easier to nagivate and progress. Naming of the template comes from Latin word 'vacō' which translates into 'I am void'.
+Skillpath is a service project based on building custom interactive voice solutions to create your brand's narrative and connected with the user in a vastly more streamlined manner. Enable an easy flow of information and data making it easier for users to nagivate and progress on the dopamine ladder of your brand.
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
