@@ -6,9 +6,12 @@
 # SKILLPATH.AI - Custom-built Alexa Skills for Businesses and Creators
 Skillpath is a service project based on building custom interactive voice solutions to create your brand's narrative and connected with the user in a vastly more streamlined manner. Enable an easy flow of information and data making it easier for users to nagivate and progress on the dopamine ladder of your brand.
 
-[Skillpath AI Facebook](https://www.facebook.com/skillpathai/) - doesn't exist yet
-[Skillpath AI Instagram](https://www.facebook.com/skillpathai/) - doesn't exist yet
-[Skillpath AI YouTube](https://www.facebook.com/skillpathai/) - doesn't exist yet
+## Presence
+
+[Skillpath AI Facebook](https://www.facebook.com/skillpathai/) [shot scenes of case studies and use cases]
+[Skillpath AI Instagram](https://www.facebook.com/skillpathai/) - doesn't exist yet [shot scenes of case studies and use cases]
+[Skillpath AI YouTube](https://www.facebook.com/skillpathai/) - doesn't exist yet [shot scenes of case studies and use cases]
+[Skillpath AI Soundcloud](https://www.facebook.com/skillpathai/) - doesn't exist yet [showcases uses and development chat]
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
