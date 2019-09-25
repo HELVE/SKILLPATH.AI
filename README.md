@@ -20,7 +20,7 @@ Skillpath is a service project based on building custom interactive voice soluti
 
 ![GALLERY TRIPLE](/assets/readme_visuals/vaco-triple-gallery.png)
 
-Fill the template structure with your own meaning, don't hesitate to make it yours. Modify the sections, omit or add elements as you please if a need arises. This template is supposed to work for you as fluid outline not as a rigid box - you know what you works best for a certain project, adjust accordingly.
+Think of all functionalities built on top of search and build it on voice. Buying a home, ordering food, baby sitting. Be the default app. Future prospect: voice version of myself or business representative acting as a knowledge database. Or album discovery (enclosed audio experience that only operates within certain project's universe), interactive podcasting.
 
 <a name="features"></a>
 ### Table of Contents
