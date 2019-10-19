@@ -9,11 +9,17 @@ Skillpath is a service project based on building custom interactive voice soluti
 ## Presence
 
 - [Skillpath Website](www.skillpath.ai) [lists all available skillpaths for voice bots]
+
 - [Skillpath AI Facebook](https://www.facebook.com/skillpathai/) [shot scenes of case studies and use cases]
+
 - [Skillpath AI Instagram](https://www.facebook.com/skillpathai/) - doesn't exist yet [shot scenes of case studies and use cases]
+
 - [Skillpath AI YouTube](https://www.facebook.com/skillpathai/) - doesn't exist yet [shot scenes of case studies and use cases]
+
 - [Skillpath AI Soundcloud](https://www.facebook.com/skillpathai/) - doesn't exist yet [showcases uses and development chat]
+
 - Podcast Platforms
+
 - Livestreams Showcasing Real-time Narrative Uses (Mixer/Twitch/YouTube)
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
